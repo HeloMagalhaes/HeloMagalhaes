@@ -1,4 +1,4 @@
-## Oi! Eu sou a Heloisa Magalhães 😁
+## Olá! Eu sou a Heloisa Magalhães ou simplesmente Helô 😁
 
  <div>
   <a href="https://github.com/HeloMagalhaes">
@@ -12,7 +12,7 @@
  
  <br>
  
-  ##Sinta-se em casa! 
+  ##Fique à vontade para falar comigo.  
  
 <div> 
    <a href = "mailto:heloisaalmeida99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
