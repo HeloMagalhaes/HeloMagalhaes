@@ -1,4 +1,4 @@
-## Olá! Meu nome é Heloisa Magalhães, mas pode me chamar de Helô. 😃
+## Olá! Meu nome é Heloisa, mas pode me chamar de Helô. 😃
 
  <div>
   <a href="https://github.com/HeloMagalhaes">
