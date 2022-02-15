@@ -52,6 +52,6 @@ My name is Heloisa Magalhães
 
 </div>
 
- - Thanks for visiting.
 
-- Enjoy it!! o/
+Enjoy it!! o/ <br>
+Feel free to contact me.
