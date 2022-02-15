@@ -10,7 +10,7 @@ My name is Heloisa Magalhães
 
 :house_with_garden: I live in São Paulo, Brazil.
 
-:outbox_tray: 2022 Goals: Find a new job.
+:outbox_tray: 2022 Goals: Find a new job as Front-End Developer.
 
 
 ## My Social Networks
