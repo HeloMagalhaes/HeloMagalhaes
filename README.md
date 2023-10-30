@@ -6,7 +6,7 @@
 My name is Heloisa Magalhães
  
 
-:computer: I've been learning HTML, CSS, Git, Github, JavaScript and SASS!
+:computer: I've been learning User Track, JavaScript and SASS!
 
 :house_with_garden: I live in São Paulo, Brazil.
 
@@ -36,6 +36,8 @@ My name is Heloisa Magalhães
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+      
           
 
  </section><br><br>
