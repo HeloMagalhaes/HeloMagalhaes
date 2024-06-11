@@ -49,12 +49,7 @@ My name is Heloisa Magalhães
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeloMagalhaes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloMagalhaes&layout=compact&langs_count=6&theme=radical"/>
 </div>
-   
-<div> 
- 
-  ![Snake animation](https://github.com/HeloMagalhaes/HeloMagalhaes/blob/output/github-contribution-grid-snake.svg)
 
-</div>
 
 
 Enjoy it!! o/ <br>
