@@ -6,7 +6,7 @@
 My name is Heloisa Magalhães
  
 
-:computer: I've been learning User Track (Google Analytics 4, Google Tag Manager and Meta API), JavaScript, SASS and Data Engineer!
+:computer: I've been learning User Track (Google Analytics 4, Google Tag Manager and Meta API) and JavaScript
 
 :house_with_garden: I live in São Paulo, Brazil.
 
